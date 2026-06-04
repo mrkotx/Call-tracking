@@ -35,5 +35,8 @@
 
 ## Запуск
 
-- Клонируйте репозиторий через Visual Studio: ``` https://github.com/mrkotx/Call-tracking.git```
+- Клонируйте репозиторий через Visual Studio:
+  ```bash
+  https://github.com/mrkotx/Call-tracking.git
+  ```
 - Запуск 8.exe
