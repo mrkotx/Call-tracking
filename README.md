@@ -35,5 +35,5 @@
 
 ## Запуск
 
-- Клонируйте репозиторий через Visual Studio: ``` https://github.com/mrkotx/Console-interface-university-lab-.git```
+- Клонируйте репозиторий через Visual Studio: ``` https://github.com/mrkotx/Console-interface-university-lab.git```
 - Запуск 8.exe
