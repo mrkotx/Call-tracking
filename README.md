@@ -32,3 +32,8 @@
 ## Формат входного файла (`info.txt`)
 
 Иванов И.И. +79123456789 31 12 2026 5 12 0 12 30
+
+## Запуск
+
+- Клонируйте репозиторий через Visual Studio: ``` https://github.com/mrkotx/Console-interface-university-lab-.git```
+- Запуск 8.exe
